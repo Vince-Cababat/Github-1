@@ -5,7 +5,7 @@ let studentAge = 18;
 let passingGrade = 75;
 
 // ARRAYS
-let subjects = ["Math", "Science", "English", "Programming"];
+let subjects = ["Automata", "Science", "English", "Programming"];
 
 let grades = [85, 92, 78, 88];
 
