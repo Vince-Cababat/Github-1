@@ -23,7 +23,7 @@ class BankAccount{
 
 }
 
-const MyAccount = new BankAccount(1000);
+const MyAccount = new BankAccount(2000);
 
 MyAccount.getDeposit(1000);
 MyAccount.getWithdraw(500);
