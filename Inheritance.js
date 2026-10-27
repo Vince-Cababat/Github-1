@@ -8,7 +8,7 @@ class Cat {
   }
 
   Sleeping(){
-    console.log(`My Cat named ${this.name} is sleeping.`)
+    console.log(`My Cat named ${this.name} is sleeping at my lap.`)
   }
 }
 
