@@ -1,7 +1,6 @@
 /*
     POLYMORPHISM — MANY FORMS
-Meaning
-
+    
 Polymorphism means:
 
 Different objects can respond to the same operation in different ways.
