@@ -4,7 +4,7 @@ Meaning
 
 Abstraction means:
 
-Expose the important interface while hiding unnecessary implementation details.
+Expose the important interface while hiding unnecessary implementation detail.
  */
 
 class Printer{
